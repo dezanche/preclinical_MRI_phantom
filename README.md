@@ -9,7 +9,7 @@ This repository contains detailed information in support of the scientific abstr
 
 ## Construction
 The phantom as built is made using an off-the-shelf 50mL centrifuge tube as the outer container (inner diameter approximately 26 mm tapering down to 25 mm at the base), in which several 25 mm diameter modules are stacked to provide the features described below. These dimensions mimic those of a mouse; to mimic other animals the dimensions of the [CAD](./tree/main/CAD) objects can be scaled accordingly to fit a container with appropriate dimensions.
-The remaining volume of the container is filled with the standard 7.8 mM CuSO<sub>4</sub> and 61.6 mM NaCl aqueous solution used in the [ACR phantoms](https://www.acraccreditation.org/-/media/ACRAccreditation/Documents/MRI/ACR-Large--Med-Phantom-GuidanceFinal.pdf) or other liquids that give NMR signal.
+The remaining volume of the container is filled with the standard 7.8 mM CuSO<sub>4</sub> and 61.6 mM NaCl aqueous solution used in the [AAPM phantoms](https://www.aapm.org/pubs/reports/rpt_100.pdf), 10 mM NiCl<sub>2</sub> and 75 mM NaCl of the [ACR phantoms](https://www.acraccreditation.org/-/media/ACRAccreditation/Documents/MRI/ACR-Large--Med-Phantom-GuidanceFinal.pdf), or other liquids that provide NMR signal.
 
 ### Modules
 The modules in the [CAD](https://github.com/dezanche/preclinical_MRI_phantom/tree/main/CAD) drawing provide the following features:
