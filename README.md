@@ -18,7 +18,7 @@ The modules in the [CAD](https://github.com/dezanche/preclinical_MRI_phantom/tre
 3. Slice angle: crossed triangular prisms to detect slice tilt (in which case the arms of the resulting cross in the image are not parallel).
 4. Radial resolution: 36 radially-oriented spokes (5° wedges) taper down to 50 μm.
 5. Linear resolution: two sets of rectangular slots ranging from 0.5 mm to 50 μm in width.
-6. Low-contrast resolution: holes of di erent sizes in disks thinner than the slices acquired.
+6. Low-contrast resolution: holes of different sizes in disks thinner than the slices acquired.
 7. Distortion grid: rectangular grid of holes in a material at least as thick as the slices acquired.
 8. Spacer: annulus or ring of uniform thickness maintains adjacent modules parallel and provides a region of uniform signal for measurements such as
 image uniformity and SNR.
