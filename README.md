@@ -26,9 +26,11 @@ image uniformity and SNR.
 <!-- end of the list -->
 
 ![modules](https://github.com/dezanche/preclinical_MRI_phantom/blob/main/Images/Renderings/Modules.png)
+
 All modules are designed with multiple points of contact to the adjacent modules to maintain parallel alignment. To facilitate filling, modules 4 and 5
 include four semicircular passages at the periphery. Care must be taken to ensure that air bubbles are not trapped in the fine features of the modules or
 between modules.
+
 ![modules](https://github.com/dezanche/preclinical_MRI_phantom/blob/main/Images/Renderings/mouse_phantom_exploded_view.png)
 
 ### Fabrication
