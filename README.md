@@ -44,5 +44,5 @@ rings, but they can also be off-the-shelf nonmetallic washers, 3D printed or mac
 ![modules](https://github.com/dezanche/preclinical_MRI_phantom/blob/main/Images/Photos/resolution_inserts.jpg)
 
 ## Licenses
-[CAD](https://github.com/dezanche/preclinical_MRI_phantom/tree/main/CAD) files are licensed under ... Additional license information is provided in that folder.\
+[CAD](https://github.com/dezanche/preclinical_MRI_phantom/tree/main/CAD) files are licensed under ... or any later version. Additional license information is provided in that folder.\
 All other original content in this repository (including this README file) is licensed under the CC...
