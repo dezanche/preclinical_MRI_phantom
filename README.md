@@ -4,8 +4,8 @@ This repository contains detailed information in support of the scientific abstr
 ![assembled phantom](https://github.com/dezanche/preclinical_MRI_phantom/blob/main/Images/Photos/phantom_cropped.jpg)
 
 ## Contents
-[CAD](https://github.com/dezanche/preclinical_MRI_phantom/tree/main/CAD) contains CAD files describing the phantom as built.\
-[Images](https://github.com/dezanche/preclinical_MRI_phantom/tree/main/Images) contains the renderings and photographs shown below.
+[CAD](https://github.com/dezanche/preclinical_MRI_phantom/tree/main/CAD) contains mechanical design (CAD) files describing the phantom as built.\
+[Images](https://github.com/dezanche/preclinical_MRI_phantom/tree/main/Images) contains the renderings and photographs shown above and below.
 
 ## Construction
 The phantom as built is made using an off-the-shelf 50mL centrifuge tube as the outer container (inner diameter approximately 26 mm tapering down to 25 mm at the base), in which several 25 mm diameter modules are stacked to provide the features described below. These dimensions mimic those of a mouse; to mimic other animals the dimensions of the [CAD](./tree/main/CAD) objects can be scaled accordingly to fit a container with appropriate dimensions.
@@ -43,4 +43,6 @@ rings, but they can also be off-the-shelf nonmetallic washers, 3D printed or mac
 ![modules](https://github.com/dezanche/preclinical_MRI_phantom/blob/main/Images/Photos/various_inserts.jpg)
 ![modules](https://github.com/dezanche/preclinical_MRI_phantom/blob/main/Images/Photos/resolution_inserts.jpg)
 
-## License
+## Licenses
+[CAD](https://github.com/dezanche/preclinical_MRI_phantom/tree/main/CAD) files are licensed under ...\
+All other content in this repository (including this README file) is licensed under the CC...
