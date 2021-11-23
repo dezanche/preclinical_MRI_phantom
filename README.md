@@ -43,6 +43,10 @@ rings, but they can also be off-the-shelf nonmetallic washers, 3D printed or mac
 ![modules](https://github.com/dezanche/preclinical_MRI_phantom/blob/main/Images/Photos/various_inserts.jpg)
 ![modules](https://github.com/dezanche/preclinical_MRI_phantom/blob/main/Images/Photos/resolution_inserts.jpg)
 
+## Contributors
+Mariko Gardiner, Anthony G. Tessier, Keith Wachowicz, and Nicola De Zanche.
+
 ## Licenses
-[CAD](https://github.com/dezanche/preclinical_MRI_phantom/tree/main/CAD) files are licensed under ... or any later version. Additional license information is provided in that folder.\
-All other original content in this repository (including this README file) is licensed under the CC...
+[CAD](https://github.com/dezanche/preclinical_MRI_phantom/tree/main/CAD) files are licensed under the [CERN-OHL-W license](https://ohwr.org/cern_ohl_w_v2.pdf) or any later version. Additional license information is provided in that folder.\
+![CClicense](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)\
+All other original content in this repository (including this README file) is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
